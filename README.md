@@ -16,7 +16,7 @@ This is a simple demo application built with Spring 3.0.6 that showcases JWT (JS
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amithimani/jwt-demo.git
    ```
 
 2. Build the project:
